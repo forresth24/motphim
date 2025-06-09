@@ -1,11 +1,13 @@
 {
-  "name": "plotwist",
+  "name": "motphim",
   "private": true,
   "version": "1.0.0",
   "scripts": {
     "build": "dotenv -- turbo build",
     "build:typescript": "turbo build --filter=@plotwist/typescript-config",
     "dev": "dotenv -- turbo dev",
+    "dev:web": "dotenv -- turbo dev --filter=web",
+    "dev:cms": "dotenv -- turbo dev --filter=cms",
     "test": "turbo test",
     "biome:check": "biome check --write .",
     "biome:format": "biome format --write ."
@@ -17,9 +19,9 @@
     "turbo": "2.4.0"
   },
   "engines": {
-    "node": ">=23"
+    "node": ">=20"
   },
-  "packageManager": "pnpm@10.0.0",
+  "packageManager": "pnpm@9.7.0",
   "resolutions": {
     "react-is": "^19.0.0-beta-26f2496093-20240514"
   }

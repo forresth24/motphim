@@ -32,7 +32,7 @@ export async function generateMetadata({
       images: tvShow.backdrop_path
         ? [tmdbImage(tvShow.backdrop_path, 'w500')]
         : undefined,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
     },
     twitter: {
       title: `${tvShow.name}: ${season.name}`,

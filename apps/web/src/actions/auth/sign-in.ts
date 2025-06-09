@@ -11,7 +11,7 @@ type SignInInput = {
 }
 
 export async function signIn({ login, password, redirectTo }: SignInInput) {
-  const { token, status } = await postLogin({ login, password })
+  const { token, status } = await postLogin({ login, email: login, password })
 
   if (token) {
     await createSession({ token })

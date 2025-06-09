@@ -35,7 +35,7 @@ export async function getTvMetadata(
       images: [tmdbImage(backdrop)],
       title: name,
       description: overview,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
       type: 'video.tv_show',
     },
     twitter: {

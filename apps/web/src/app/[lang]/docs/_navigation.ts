@@ -15,7 +15,7 @@ type NavigationGroup = {
 
 export const buildNavigation = (dictionary: Dictionary): NavigationGroup[] => [
   {
-    name: 'Plotwist',
+    name: 'MotPhim',
     children: [
       {
         name: dictionary.about,

@@ -39,7 +39,7 @@ export async function generateMetadata({
       images: episode.still_path
         ? [tmdbImage(episode.still_path, 'w500')]
         : undefined,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
     },
     twitter: {
       title,

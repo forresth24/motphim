@@ -38,9 +38,9 @@ export async function generateMetadata(props: PageProps): Promise<Metadata> {
     description,
     keywords: dictionary.home.keywords,
     openGraph: {
-      title: `Plotwist • ${title}`,
+      title: `MotPhim • ${title}`,
       description,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
       url: APP_URL,
       images: [
         {

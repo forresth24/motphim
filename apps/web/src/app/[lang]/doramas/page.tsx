@@ -17,7 +17,7 @@ export async function generateMetadata(props: PageProps): Promise<Metadata> {
     openGraph: {
       title,
       description,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
     },
     twitter: {
       title,

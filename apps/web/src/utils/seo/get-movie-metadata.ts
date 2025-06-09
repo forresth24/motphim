@@ -55,7 +55,7 @@ export async function getMovieMetadata(
       images: [tmdbImage(backdrop_path)],
       title,
       description: overview,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
       locale: language,
       url: canonicalUrl,
       type: 'video.movie',

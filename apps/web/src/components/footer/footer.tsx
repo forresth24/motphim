@@ -14,7 +14,7 @@ export const Footer = ({ language, dictionary }: FooterProps) => {
             <Logo size={20} />
 
             <p className="text-xs text-muted-foreground">
-              © {new Date().getFullYear()} Plotwist
+              © {new Date().getFullYear()} MotPhim
             </p>
 
             <div className="h-3 border-r" />

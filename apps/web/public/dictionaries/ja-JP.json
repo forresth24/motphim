@@ -4,7 +4,7 @@
   },
   "home_prices": {
     "title": "今日からあなたの旅を始めましょう",
-    "description": "これまでにない映画やテレビ番組の世界を発見しましょう。今日からPlotwistの旅を始めて、成長する映画ファンのコミュニティの一員になりましょう！",
+    "description": "これまでにない映画やテレビ番組の世界を発見しましょう。今日からMotPhimの旅を始めて、成長する映画ファンのコミュニティの一員になりましょう！",
     "monthly": "月額",
     "yearly": "年間",
     "free_plan": {
@@ -484,7 +484,7 @@
   },
   "changelog": {
     "title": "変更ログ",
-    "description": "Plotwistへの新しいアップデートと改善。",
+    "description": "MotPhimへの新しいアップデートと改善。",
     "subscribe": "アップデートを購読する！"
   },
   "text_actions": {
@@ -695,7 +695,7 @@
   "movies_and_series": "映画とシリーズ",
   "never_been_easier": "これほど簡単になったことはありません。",
   "most_apps_functional": "ほとんどのアプリは機能的ですが、退屈です。",
-  "plotwist_incredible_interface": "Plotwistでは、リストにあるシリーズを一度も見ない場合でも、素晴らしいインターフェースを選びます。",
+  "plotwist_incredible_interface": "MotPhimでは、リストにあるシリーズを一度も見ない場合でも、素晴らしいインターフェースを選びます。",
   "keep_exploring": "探索を続ける",
   "elegant_control": "エレガントなコントロール",
   "elegant_control_description": "すべてを管理下に置きます。視聴済みのものをマークし、ステータスで整理し、マラソン中に迷子にならないようにします。",
@@ -821,7 +821,7 @@
   "episode": "エピソード",
   "replied_to_review": "のレビューに返信しました",
   "liked_reply": "の返信が気に入りました",
-  "joined_plotwist": "Plotwistに参加しました 🎉",
+  "joined_plotwist": "MotPhimに参加しました 🎉",
   "dropped": "放棄された",
   "collection": "コレクション",
   "dropped_add": "放棄リストに追加されました。",
@@ -837,7 +837,7 @@
   "watch_providers_label": "ストリーミングサービス",
   "select_the_watch_providers": "ストリーミングサービスを選択",
   "preferences_updated": "設定が正常に更新されました。",
-  "preferences_description": "あなたの設定は、Plotwistの体験をカスタマイズするために使用されます。",
+  "preferences_description": "あなたの設定は、MotPhimの体験をカスタマイズするために使用されます。",
   "preferences": "設定",
   "no_results": "結果は見つかりませんでした",
   "available_on_streaming_services": "✨ あなたの設定に基づいた結果",

@@ -34,7 +34,7 @@ export async function generateMetadata(
     openGraph: {
       title,
       description,
-      siteName: 'Plotwist',
+      siteName: 'MotPhim',
       images: images,
     },
     twitter: {
